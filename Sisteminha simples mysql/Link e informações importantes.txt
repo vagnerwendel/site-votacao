@@ -1,0 +1,7 @@
+
+
+ 
+usei o xampp(apache+mysql) então tem que colocar os arquivos la na pasta htdocs para funcionar, também precisa ser utilizado em um navegador
+eu recomendo o chrome ou mozilla
+ para acessar o banco de dados digite esse endereço em seu navegador : “http://localhost/phpmyadmin“
+crie um banco de dados chamado "votosistema" depois vá em importar e importe o arquivo sql
